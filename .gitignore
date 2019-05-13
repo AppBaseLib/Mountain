@@ -12,4 +12,7 @@
 /captures
 .externalNativeBuild
 
+/basic/build
+/common/build
+/biz/build
 /app/build
